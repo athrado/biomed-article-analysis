@@ -1,6 +1,6 @@
 % Final Prolog Project by Julia Suter
 % in the course
-% Fabio Rinaldi - Logic Programming for Knowledge Representation, Spring Semester 2015
+% Logic Programming for Knowledge Representation, Spring Semester 2015
 
 % Get the data
 :- [prolog_data].
