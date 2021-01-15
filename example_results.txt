@@ -1,0 +1,44 @@
+Example Results for Final Prolog Project
+*****************************************
+
+Ten Most Representative Words in First Article:
+
+- subtilis       15.612359947967775
+- skfa           11.709269960975831
+- spo0a          9.107209969647869
+- strain         8.387640052032227
+- ybco           7.8061799739838875
+- log            7.8061799739838875
+- killing        7.8061799739838875
+- predation      6.505149978319906
+- viability      5.7673611866102314
+- lack           5.591760034688151
+
+
+
+A activates B:
+
+Spo0A                              activates  two operons
+which                              activates  the transcription
+ATF3 overexpression                activates  dependent promoter
+spreading                          activates  protein tyrosine phosphorylation signalling cascades
+8                                  activates  other downstream caspases
+a decreasing ATP concentration     activates  NDPK3
+Thapsigargin                       activates  Osteocalcin transcription
+
+
+A cleaves B:
+
+NDPK3                              cleaves  the atp9 RNA molecule
+ADAMTS13                           cleaves  VWFs
+The pea mitochondrial kinase       cleaves  DNA
+The recombinant pea protein        cleaves  only supercoiled plasmid DNA
+H2                                 cleaves  sequences
+NDPK3                              cleaves  two small DNA molecules
+the pea mitochondrial NDPK3        cleaves  a supercoiled plasmid substrate
+metalloproteinase                  cleaves  the multimers
+
+
+Study Focus for Article 17
+
+In this study , we investigate the nuclease activity of the recombinant pea protein . 
